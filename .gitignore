@@ -1,0 +1,11 @@
+# Proje tarafından üretilen veriler 
+data/ 
+# Python sanal ortam dosyaları 
+venv/ 
+# IDE veya metin editörü tarafından oluşturulan geçici dosyalar 
+.vscode/ 
+.idea/ 
+# Log dosyaları 
+*.log 
+# Gizli sistem dosyaları 
+.DS_Store Thumbs.db 
