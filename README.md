@@ -29,7 +29,11 @@ In diesem Projekt wurde eine Preisschätzung für die meistverkauften Modelle vo
 - Datenbereinigung (fehlende Werte, Ausreißer etc.)
 - Neue Merkmale erzeugen
 - Daten für die Analyse vorbereiten
-## 3. Maschinelle Lernmodelle
+## 3. Plotly Dashboard
+- Boxplot
+- Bar Chart
+- Pie Chart
+## 4. Maschinelle Lernmodelle
 Mit verschiedenen Algorithmen des maschinellen Lernens wurden Preisvorhersagemodelle erstellt:
 - Lineare Regression
 - Ridge, Lasso, ElasticNet 
