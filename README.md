@@ -11,7 +11,7 @@ In this project, price prediction was done for the best selling models of 7 popu
 - Boxplot
 - Bar Chart
 - Pie Chart 
-## 4. Maschinelle Lernmodelle
+## 4. Machine Learning
 Various machine learning algorithms were used to build price prediction models:
 - Linear Regression
 - Ridge, Lasso, ElasticNet
