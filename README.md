@@ -10,7 +10,7 @@ In this project, price prediction was done for the best selling models of 7 popu
 ## 3. Plotly Dashboard
 - Boxplot
 - Bar Chart
-- Pie Chart
+- Pie Chart 
 ## 4. Maschinelle Lernmodelle
 Various machine learning algorithms were used to build price prediction models:
 - Linear Regression
